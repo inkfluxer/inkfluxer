@@ -8,7 +8,7 @@
 ## 🛠️ **Technical Overview**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,vite,react,vscode,nuxtjs,typescript,nestjs,github,webpack,nodejs,git" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,react,vscode,nuxtjs,threejs,js,typescript,nestjs,github,webpack,nodejs,git" />
 </p>
 
 ## 📈 **GitHub Stats**
